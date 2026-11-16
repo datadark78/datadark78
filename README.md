@@ -8,7 +8,7 @@
 
 Trabajo en monitoreo y operación de infraestructura: Zabbix, Grafana, redes GPON y parques de equipos Windows y Linux. Automatizo con Python y PowerShell todo lo que se repite, y sigo formándome en DevOps (contenedores, CI/CD, nube).
 
-**Edad:** 48 años | **Ubicación:** Buenos Aires, Argentina
+**Edad:** 48 años | **Ubicación:** La Plata, Argentina
 
 ---
 
